@@ -3,6 +3,9 @@
 Royal Institute of Management · Diploma in Information Technology · Full Stack Web Development
 Control structures, arrays, strings and functions with B-PIS data (all data is fictional).
 
+
+http://localhost/week2-logic_v2/
+
 | | |
 |---|---|
 | Name | Neepan Kumal |
