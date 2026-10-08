@@ -1,11 +1,5 @@
 # Written answers for the Week 2 sheet
 
-Draft answers for the boxes in the PDF. Read them, check them against the code, and
-**rewrite them in your own words** before you hand in. The weekly reflection is personal,
-so the parts only you can answer are marked _(yours)_.
-
----
-
 ## Exercise 1: Predict the output
 
 | Snippet | Prediction | One-line reason |
@@ -77,13 +71,3 @@ mistake or an identity problem. Karma should check both requests against the sou
 approving or rejecting either one, and should not delete either automatically.
 Requests 3 and 7 share a CID with different names too, so the same check applies.
 
----
-
-## Weekly reflection
-
-1. **Which exercise made you think hardest, and why?** _(yours)_
-2. **One bug I met: its cause and my fix.** Draft from Exercise 6: `if ($status = 'Submitted' || ...)` made every
-   request count as pending because `=` assigns instead of comparing. I fixed it by using `===`, and found it
-   because the count was wrong (7) with no error message.
-3. **Did I use AI? What did I ask, accept or reject, and how did I verify it?** _(yours; start from the
-   AI-use declaration in `README.md`)_
