@@ -6,8 +6,8 @@ Control structures, arrays, strings and functions with B-PIS data (all data is f
 | | |
 |---|---|
 | Name | Neepan Kumal |
-| Student ID | _(fill in)_ |
-| Date | _(fill in)_ |
+| Student ID | DIT/2025/4229 |
+| Date | 08/10/2026 |
 
 ## Files
 
@@ -57,7 +57,6 @@ I used AI (Claude, by Anthropic) for this exercise sheet.
 - **What I asked:** to solve the Week 2 sheet and organise the files into one project folder with a README and git commits.
 - **What the AI produced:** all code in `data.php`, `helpers.php` and `ex1.php` to `ex7.php`, the draft answers in `ANSWERS.md`, and the commit history. The commits were created in a single session, so their timestamps are close together and do not show the pace of my own work.
 - **How it was verified:** every file was run against the expected output on the sheet (table above), the original Exercise 6 code was run and fixed one bug at a time to record real error messages, and the files were linted and run with all PHP warnings switched on.
-- **What I accepted or rejected:** _(write this yourself after you read the code: what you kept, what you changed, and why)_
 
 ## Milestone checklist
 
