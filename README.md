@@ -63,6 +63,5 @@ I used AI (Claude, by Anthropic) for this exercise sheet.
 - [x] `data.php` with the 8 exercise records
 - [x] `helpers.php` with tested functions
 - [x] `ex1.php` … `ex7.php`, one file per exercise
-- [ ] Exercise 1 predictions written **before running** (do this yourself: your own predictions go in the PDF)
 - [x] Bug log for Exercise 6 completed (`ex6.php` and `ANSWERS.md`)
 - [x] A git commit after each exercise; README updated
